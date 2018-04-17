@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gintu/cryptoassets/issues"
   },
-  "homepage": "https://github.com/gintu/cryptoassets#readme"
+  "homepage": "https://github.com/gintu/cryptoassets#readme",
+  "dependencies": {
+    "web3": "github:ethereum/web3.js"
+  }
 }
